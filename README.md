@@ -24,5 +24,6 @@ A comprehensive Java utility for performing various file operations with proper 
 ### Installation
 
 1. Clone the repository:
-   ```bash 
+   ```bash
+   gh repo clone shaikaayesha01/File-Handling-Utility-in-java-
    cd java-file-handling-utility
